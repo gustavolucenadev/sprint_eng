@@ -1,3 +1,4 @@
-# sprint_eng
+# Sprint de Engenharia de Software
 
-# o PDF se encontra dentro da pasta "assets"
+#  ------------- IMPORTANTE ---------------
+O PDF se encontra dentro da pasta "assets"
